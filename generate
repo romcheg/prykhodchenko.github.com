@@ -1,0 +1,4 @@
+#! /bin/bash
+
+pelican -s settings.py -t bootstrap2 -o ./
+

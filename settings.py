@@ -1,4 +1,4 @@
 AUTHOR     = u'Roman Prykhodchenko'
-SITENAME   = u'headcrap.com'
-SITEURL    = u'headcrap.com'
+SITENAME   = u'Roman Prykhodchenko'
+SITEURL    = u'romcheg.me'
 
